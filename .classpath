@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="lucene-4.10.2/queryparser/lucene-queryparser-4.10.2.jar"/>
 	<classpathentry kind="lib" path="lucene-4.10.2/classification/lucene-classification-4.10.2.jar"/>
 	<classpathentry kind="lib" path="lucene-4.10.2/analysis/common/lucene-analyzers-common-4.10.2.jar"/>
+	<classpathentry kind="lib" path="lib/pinyin4j-2.5.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
