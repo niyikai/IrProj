@@ -38,7 +38,7 @@ public class IndexFiles {
 	public static void main(String[] args) {
 	  
 		String indexPath = "index"; //the index directory Path
-		String docsPath = "Docs";   //the documents directory Path
+		String docsPath = "data";   //the documents directory Path
 		boolean create = true;      //true: create a new index; false: add new documents to an existing index
 	
 		final File docDir = new File(docsPath);
