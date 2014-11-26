@@ -7,3 +7,5 @@ public class Demo {
 		System.out.println(strPinyin);
 	}
 }
+
+//hahahaha
